@@ -1,0 +1,12 @@
+body {
+  background-color: aliceblue;
+}
+
+.well {
+  background-color: orange;
+  padding: 10px;
+}
+
+#distillery_map {
+  height: calc(100vh - 20px);
+}
